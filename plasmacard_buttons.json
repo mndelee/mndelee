@@ -15,7 +15,7 @@
             "content": {
               "text": "old button",
               "typeface": "text1",
-              "style": "default",
+              "style": "primary",
               "type": "accept",
               "actions": [
                 {
@@ -51,7 +51,7 @@
               "content": {
                 "text": "Style - checked, circle",
                 "rounded_corners": "circle",
-                "style": "default",
+                "style": "checked",
                 "actions": [
                   {
                     "type": "deep_link",
